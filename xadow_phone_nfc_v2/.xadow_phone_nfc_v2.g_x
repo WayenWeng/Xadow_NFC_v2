@@ -1,0 +1,190 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_CompilerCpp_SearchUserPaths</name>
+      <values lines_count="31">
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/src/sim/MKL02Z4"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/system/src/clock/MKL02Z4"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/system/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/src/sim/MKL02Z4"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/system/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/osa/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/osa/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/utilities/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/drivers/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/utilities/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/drivers/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/CMSIS/Include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/CMSIS/Include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/CMSIS/Include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/CMSIS/Include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/CMSIS/Include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/MKL02Z4/include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/MKL02Z4/startup"</Line>
+        <Line>"${ProjDirPath}/Generated_Code/SDK/platform/devices/MKL02Z4/startup"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Asm_Defines</name>
+      <values lines_count="1">
+        <Line>"FSL_OSA_BM_TIMER_CONFIG=2"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_CompilerCpp_Defines</name>
+      <values lines_count="1">
+        <Line>"FSL_OSA_BM_TIMER_CONFIG=2"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Linker_OtherC</name>
+      <value>-specs=nosys.specs -specs=nano.specs</value>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_Defines</name>
+      <values lines_count="1">
+        <Line>"FSL_OSA_BM_TIMER_CONFIG=2"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="31">
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/src/sim/MKL02Z4"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/system/src/clock/MKL02Z4"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/system/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/src/sim/MKL02Z4"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/system/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/osa/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/osa/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/utilities/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/drivers/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/hal/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/utilities/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/drivers/inc"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/CMSIS/Include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/CMSIS/Include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/CMSIS/Include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/CMSIS/Include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/CMSIS/Include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/MKL02Z4/include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/MKL02Z4/startup"</Line>
+        <Line>"${ProjDirPath}/Generated_Code/SDK/platform/devices/MKL02Z4/startup"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Linker_OtherCpp</name>
+      <value>-specs=nosys.specs -specs=nano.specs</value>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ilg_gnuarmeclipse_managedbuild_cross_option_c_compiler_defs</name>
+      <values lines_count="1">
+        <Line>"CPU_MKL02Z32VFG4"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="SDK/platform/hal/inc/fsl_mcg_hal.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763128" FileType="1048576" CompNumb="0" />
+      <File Name="Generated_Code/PE_low_level_init.h" FileDate="2015-08-10, 12:00:19" FileAge="1439179219513" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/hardware_init.c" FileDate="2015-08-10, 12:00:19" FileAge="1439179219638" FileType="45637" CompNumb="7" />
+      <File Name="SDK/platform/utilities/inc/fsl_misc_utilities.h" FileDate="2015-08-10, 12:00:19" FileAge="1439179219248" FileType="1048576" CompNumb="0" />
+      <File Name="SDK/platform/drivers/src/i2c/fsl_i2c_slave_driver.c" FileDate="2015-08-10, 12:00:19" FileAge="1439179219295" FileType="1048576" CompNumb="0" />
+      <File Name="Generated_Code/board.h" FileDate="2015-08-10, 12:00:19" FileAge="1439179219622" FileType="45637" CompNumb="7" />
+      <File Name="Documentation/doxygen/xadow_phone_nfc_v2_project.txt" FileDate="2015-08-10, 11:52:43" FileAge="1439178763378" FileType="45637" CompNumb="15" />
+      <File Name="SDK/platform/CMSIS/Include/core_cmSimd.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763269" FileType="1048576" CompNumb="15" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2015-08-10, 11:52:43" FileAge="1439178763362" FileType="45637" CompNumb="15" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2015-08-10, 12:00:19" FileAge="1439179219685" FileType="8" CompNumb="15" />
+      <File Name="SDK/platform/hal/inc/fsl_osc_hal.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763175" FileType="1048576" CompNumb="6" />
+      <File Name="SDK/platform/drivers/inc/fsl_i2c_slave_driver.h" FileDate="2015-08-10, 12:00:19" FileAge="1439179219310" FileType="1048576" CompNumb="0" />
+      <File Name="SDK/platform/system/src/clock/fsl_clock_manager_common.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763191" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/platform/hal/inc/fsl_mcg_hal_modes.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763128" FileType="1048576" CompNumb="0" />
+      <File Name="SDK/platform/hal/inc/fsl_port_hal.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763222" FileType="1048576" CompNumb="8" />
+      <File Name="SDK/platform/osa/inc/fsl_os_abstraction.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763253" FileType="1048576" CompNumb="11" />
+      <File Name="SDK/platform/osa/inc/fsl_os_abstraction_bm.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763253" FileType="1048576" CompNumb="11" />
+      <File Name="SDK/platform/drivers/src/i2c/fsl_i2c_master_driver.c" FileDate="2015-08-10, 12:00:19" FileAge="1439179219279" FileType="1048576" CompNumb="0" />
+      <File Name="ProjectInfo.xml" FileDate="2015-08-10, 13:35:26" FileAge="1439184926615" FileType="45637" />
+      <File Name="SDK/platform/drivers/inc/fsl_i2c_master_driver.h" FileDate="2015-08-10, 12:00:19" FileAge="1439179219295" FileType="1048576" CompNumb="0" />
+      <File Name="SDK/platform/hal/src/mcg/fsl_mcg_hal_modes.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763128" FileType="1048576" CompNumb="0" />
+      <File Name="Documentation/xadow_phone_nfc_v2_Settings.xml" FileDate="2015-08-10, 13:35:25" FileAge="1439184925991" FileType="3072" />
+      <File Name="SDK/platform/hal/src/port/fsl_port_hal.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763222" FileType="1048576" CompNumb="8" />
+      <File Name="Documentation/xadow_phone_nfc_v2.txt" FileDate="2015-08-10, 13:35:26" FileAge="1439184926646" FileType="3072" />
+      <File Name="Generated_Code/osa1.h" FileDate="2015-08-10, 12:00:19" FileAge="1439179219560" FileType="45637" CompNumb="11" />
+      <File Name="SDK/platform/devices/MKL02Z4/include/fsl_bitaccess.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763300" FileType="1048576" CompNumb="15" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2015-08-10, 12:00:19" FileAge="1439179219653" FileType="45637" CompNumb="15" />
+      <File Name="SDK/platform/CMSIS/Include/arm_math.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763284" FileType="1048576" CompNumb="15" />
+      <File Name="Generated_Code/osa1.c" FileDate="2015-08-10, 12:00:19" FileAge="1439179219544" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2015-08-10, 13:35:25" FileAge="1439184925679" FileType="45637" CompNumb="15" />
+      <File Name="SDK/platform/hal/src/sim/MKL02Z4/fsl_sim_hal_MKL02Z4.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763144" FileType="1048576" CompNumb="0" />
+      <File Name="Sources/main.c" FileDate="2015-08-10, 13:35:25" FileAge="1439184925679" FileType="128" />
+      <File Name="SDK/platform/hal/src/sim/MKL02Z4/fsl_sim_hal_MKL02Z4.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763144" FileType="1048576" CompNumb="0" />
+      <File Name="SDK/platform/devices/startup.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763331" FileType="1048576" CompNumb="15" />
+      <File Name="SDK/platform/hal/src/i2c/fsl_i2c_hal.c" FileDate="2015-08-10, 12:00:19" FileAge="1439179219232" FileType="1048576" CompNumb="0" />
+      <File Name="SDK/platform/devices/startup.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763331" FileType="1048576" CompNumb="15" />
+      <File Name="SDK/platform/hal/inc/fsl_sim_hal.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763128" FileType="1048576" CompNumb="0" />
+      <File Name="SDK/platform/hal/src/gpio/fsl_gpio_hal.c" FileDate="2015-08-10, 12:00:19" FileAge="1439179219217" FileType="1048576" CompNumb="21" />
+      <File Name="Generated_Code/pin_mux.h" FileDate="2015-08-10, 12:00:19" FileAge="1439179219591" FileType="45637" CompNumb="7" />
+      <File Name="SDK/platform/devices/MKL02Z4/startup/gcc/startup_MKL02Z4.S" FileDate="2015-08-10, 11:52:43" FileAge="1439178763331" FileType="1048576" CompNumb="15" />
+      <File Name="SDK/platform/CMSIS/Include/core_cm0plus.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763253" FileType="1048576" CompNumb="15" />
+      <File Name="SDK/platform/devices/MKL02Z4/include/MKL02Z4_extension.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763315" FileType="1048576" CompNumb="15" />
+      <File Name="SDK/platform/CMSIS/Include/arm_common_tables.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763284" FileType="1048576" CompNumb="15" />
+      <File Name="Generated_Code/pin_mux.c" FileDate="2015-08-10, 12:00:19" FileAge="1439179219607" FileType="45637" CompNumb="7" />
+      <File Name="SDK/platform/devices/MKL02Z4/include/MKL02Z4.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763315" FileType="1048576" CompNumb="15" />
+      <File Name="Generated_Code/SDK/platform/devices/MKL02Z4/startup/system_MKL02Z4.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763487" FileType="45637" CompNumb="3" />
+      <File Name="SDK/platform/system/src/interrupt/fsl_interrupt_manager.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763222" FileType="1048576" CompNumb="13" />
+      <File Name="SDK/platform/devices/MKL02Z4/startup/system_MKL02Z4.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763347" FileType="1048576" CompNumb="15" />
+      <File Name="SDK/platform/devices/MKL02Z4/include/MKL02Z4_features.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763315" FileType="1048576" CompNumb="15" />
+      <File Name="SDK/platform/system/inc/fsl_interrupt_manager.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763237" FileType="1048576" CompNumb="13" />
+      <File Name="SDK/platform/osa/src/fsl_os_abstraction_bm.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763237" FileType="1048576" CompNumb="11" />
+      <File Name="SDK/platform/drivers/inc/fsl_i2c_shared_function.h" FileDate="2015-08-10, 12:00:19" FileAge="1439179219310" FileType="1048576" CompNumb="0" />
+      <File Name="Documentation/doxygen/RoutingReport_component.txt" FileDate="2015-08-10, 12:00:19" FileAge="1439179219700" FileType="45637" CompNumb="15" />
+      <File Name="SDK/platform/CMSIS/Include/core_cmInstr.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763269" FileType="1048576" CompNumb="15" />
+      <File Name="SDK/platform/hal/inc/fsl_gpio_hal.h" FileDate="2015-08-10, 12:00:19" FileAge="1439179219217" FileType="1048576" CompNumb="21" />
+      <File Name="Static_Code/System/PE_low_level_init.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763347" FileType="1048576" CompNumb="15" />
+      <File Name="SDK/platform/devices/fsl_device_registers.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763300" FileType="1048576" CompNumb="15" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2015-08-10, 11:52:42" FileAge="1439178762847" FileType="16384" CompNumb="15" />
+      <File Name="Generated_Code/clockMan1.h" FileDate="2015-08-10, 12:00:19" FileAge="1439179219591" FileType="45637" CompNumb="3" />
+      <File Name="SDK/platform/system/src/clock/MKL02Z4/fsl_clock_MKL02Z4.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763191" FileType="1048576" CompNumb="3" />
+      <File Name="Generated_Code/i2cCom1.h" FileDate="2015-08-10, 13:35:25" FileAge="1439184925647" FileType="45637" CompNumb="16" />
+      <File Name="Sources/Events.h" FileDate="2015-08-10, 13:35:25" FileAge="1439184925694" FileType="131328" />
+      <File Name="Generated_Code/clockMan1.c" FileDate="2015-08-10, 12:00:19" FileAge="1439179219575" FileType="45637" CompNumb="3" />
+      <File Name="SDK/platform/system/src/clock/MKL02Z4/fsl_clock_MKL02Z4.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763191" FileType="1048576" CompNumb="3" />
+      <File Name="Generated_Code/i2cCom1.c" FileDate="2015-08-10, 12:00:19" FileAge="1439179219529" FileType="45637" CompNumb="16" />
+      <File Name="Sources/Events.c" FileDate="2015-08-10, 13:35:25" FileAge="1439184925710" FileType="131328" />
+      <File Name="Generated_Code/i2cCom0.h" FileDate="2015-08-10, 13:35:25" FileAge="1439184925632" FileType="45637" CompNumb="27" />
+      <File Name="SDK/platform/CMSIS/Include/arm_const_structs.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763284" FileType="1048576" CompNumb="15" />
+      <File Name="SDK/platform/CMSIS/Include/core_cmFunc.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763269" FileType="1048576" CompNumb="15" />
+      <File Name="SDK/platform/drivers/src/i2c/fsl_i2c_shared_function.c" FileDate="2015-08-10, 12:00:19" FileAge="1439179219295" FileType="1048576" CompNumb="0" />
+      <File Name="Generated_Code/i2cCom0.c" FileDate="2015-08-10, 13:35:25" FileAge="1439184925569" FileType="45637" CompNumb="27" />
+      <File Name="SDK/platform/system/inc/fsl_clock_manager.h" FileDate="2015-08-10, 11:52:43" FileAge="1439178763206" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/platform/system/src/clock/fsl_clock_manager.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763175" FileType="1048576" CompNumb="3" />
+      <File Name="SDK/platform/hal/src/mcg/fsl_mcg_hal.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763113" FileType="1048576" CompNumb="0" />
+      <File Name="SDK/platform/hal/src/osc/fsl_osc_hal.c" FileDate="2015-08-10, 11:52:43" FileAge="1439178763159" FileType="1048576" CompNumb="6" />
+      <File Name="SDK/platform/hal/inc/fsl_i2c_hal.h" FileDate="2015-08-10, 12:00:19" FileAge="1439179219232" FileType="1048576" CompNumb="0" />
+      <File Name="SDK/platform/drivers/src/i2c/fsl_i2c_common.c" FileDate="2015-08-10, 12:00:19" FileAge="1439179219248" FileType="1048576" CompNumb="0" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>3</CodeGenReference>
+</CodeGenerationInfo>
